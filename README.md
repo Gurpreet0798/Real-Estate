@@ -69,7 +69,7 @@ This project is a comprehensive real estate website built using React for the fr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/real-estate-website.git
+   git clone https://github.com/Gurpreet0798/real-estate-website.git
 Navigate to the project directory:
 
 bash
