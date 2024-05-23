@@ -60,7 +60,7 @@ This project is a comprehensive real estate website built using React for the fr
 
 - **Front End**: React
 - **Authentication**: Firebase Authentication
-- **Database**: Firebase Firestore
+- **Database**: Firebase Firestore and mongodb
 - **Hosting**: Firebase Hosting
 - **Mapping**: Google Maps API
 - **Other Libraries**: Axios, React Router, Redux (if applicable)
